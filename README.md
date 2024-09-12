@@ -1,6 +1,6 @@
 > [!NOTE]
-> - Контакты: [Telegram](https://t.me/mudachyo) 
-> - Канал: [Telegram Channel](https://t.me/shopalenka) 
+> - Контакты: [Telegram](https://t.me/babayevy) 
+> - Канал: [Telegram Channel](https://t.me/) 
 > - 🇪🇳 README in english available [here](README-EN.md)
 ---
 ## Как запустить  
@@ -23,33 +23,33 @@
 > [!TIP]
 > Другие репозитории:
 > 
-> - [Hamster Kombat + Autoclicker](https://github.com/mudachyo/Hamster-Kombat)
+> - [Hamster Kombat + Autoclicker](https://github.com/senenevar/Hamster-Kombat)
 > 
-> - [TapSwap + Autoclicker](https://github.com/mudachyo/TapSwap)
+> - [TapSwap + Autoclicker](https://github.com/senenevar/TapSwap)
 > 
-> - [Blum + Autoclicker](https://github.com/mudachyo/Blum)
+> - [Blum + Autoclicker](https://github.com/senenevar/Blum)
 >
-> - [PixelTap + Autoclicker](https://github.com/mudachyo/PixelTap)
+> - [PixelTap + Autoclicker](https://github.com/senenevar/PixelTap)
 > 
-> - [MemeFi + Autoclicker](https://github.com/mudachyo/MemeFi-Coin)
+> - [MemeFi + Autoclicker](https://github.com/senenevar/MemeFi-Coin)
 >
-> - [Yescoin + Autoclicker](https://github.com/mudachyo/Yescoin)
+> - [Yescoin + Autoclicker](https://github.com/senenevar/Yescoin)
 >
-> - [Gemz + Autoclicker](https://github.com/mudachyo/Gemz)
+> - [Gemz + Autoclicker](https://github.com/senenevar/Gemz)
 >
-> - [Сrossfi + Autoclicker](https://github.com/mudachyo/Crossfi)
+> - [Сrossfi + Autoclicker](https://github.com/senenevar/Crossfi)
 >
-> - [BUMP + Autoclicker](https://github.com/mudachyo/BUMP)
+> - [BUMP + Autoclicker](https://github.com/senenevar/BUMP)
 >
-> - [W-Coin + Autoclicker](https://github.com/mudachyo/W-Coin)
+> - [W-Coin + Autoclicker](https://github.com/senenevar/W-Coin)
 >
-> - [1win + Autoclicker](https://github.com/mudachyo/1win-Token)
+> - [1win + Autoclicker](https://github.com/senenevar/1win-Token)
 >
-> - [Not Pixel + Autoclicker](https://github.com/mudachyo/Not-Pixel)
+> - [Not Pixel + Autoclicker](https://github.com/senenevar/Not-Pixel)
 ---
 > [!IMPORTANT] 
 > Пожертвование
 > 
-> - [Пожертвование](https://mudachyo.codes/donate/)
+> - [Пожертвование]()
 > 
 > Пожертвования будут использованы для поддержания/сохранения проекта.
